@@ -4,7 +4,7 @@ This project focuses on classifying Wikipedia comments into six toxicity categor
 
 ## **Course:** TMDRA  
 ## **Academic Year:** 2024/2025  
-## **Authors:** Anvarbek Kuziboev, Nazym Boribayeva  
+## **Authors:** Anvarbek Kuziboev 
 
 ## **1. Introduction**
 ### **Task Overview**
